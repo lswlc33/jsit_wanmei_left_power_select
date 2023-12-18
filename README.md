@@ -1,0 +1,2 @@
+# jsit_wanmei_left_power_select
+一个对接完美校园的爬虫脚本
