@@ -1,4 +1,5 @@
 # jsit_wanmei_left_power_select
+# 2024-03-06 后端数据格式有变更，同时添加了访问速度限制，脚本不好使了，懒得改了
 一个对接完美校园的爬虫脚本
 > now only available for 江苏信息职业技术学院
 
